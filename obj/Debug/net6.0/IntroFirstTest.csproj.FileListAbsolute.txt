@@ -1,0 +1,15 @@
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\bin\Debug\net6.0\IntroFirstTest.exe
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\bin\Debug\net6.0\IntroFirstTest.deps.json
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\bin\Debug\net6.0\IntroFirstTest.runtimeconfig.json
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\bin\Debug\net6.0\IntroFirstTest.dll
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\bin\Debug\net6.0\IntroFirstTest.pdb
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.csproj.AssemblyReference.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.AssemblyInfoInputs.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.AssemblyInfo.cs
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.csproj.CoreCompileInputs.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.dll
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\refint\IntroFirstTest.dll
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.pdb
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\IntroFirstTest.genruntimeconfig.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\CSharp\Testing\IntroFirstTest\obj\Debug\net6.0\ref\IntroFirstTest.dll
